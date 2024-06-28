@@ -1,0 +1,74 @@
+   MS SQL SERVER DBA
+========================
+ (MS SQL Server DATABASE ADMINISTRATION)
+
+Data:- colletion of info is called data.
+
+Database:-collection  of data is called db.
+
+DBMS:- The system which manages the db is called as dbms. creation of data and backup of data and restore of data and import and export of data.
+ex:- SQL server, Oracle.
+
+==
+
+when SQL server is born ?
+------------------------
+1978 sybase corp is developed SQL server 1.0
+
+SYBASE-->ANSI--leisense---> not approved.
+
+Microsoft --> MS SQL server 1.0--->ANSI---> approve--> MICROSOFT
+
+    version name	   version no          Compatability no
+Sql server 1.0                  1.0			10
+           2.0                  2.0			20
+           3.0                  3.0			30
+           |
+           |
+sql server 2000			8.0			80
+sql server 2005 		9.0			90
+SQL server 2008/r2		10.0			100
+SQL server 2012			11.0			110 
+================================== MS is stopped supporting for above versions.
+SQL Server 2014			12.0			120
+SQL server 2016			13.0			130
+SQL server 2017			14.0			140
+SQL server 2019			15.0			150 
+SQL Server 2022       		16.0			160 (latest)
+
+( Every version of SQL server will be supported for 10 years by microsfot ) ( 5 years are normal and another 5 y are extension)
+
+FLIPKART--->SQL server 2012 -11.0-> 110 -->application designed.
+
+upgraded 2012-->2019.(15.0)  2019 compatability--> 150.
+
+u will be in SQL 2019---> u will behave like a 2012 db.
+( BY CHANGING THE CMPTY LEVEL NO FROM 150 TO 110)
+
+==
+In SQL server how the data is stored.
+
+     SQL Server
+   	  |
+  	  |
+      Databases 
+  	  |
+          |
+       tables ( set of  rows and columns is called a table)
+ 	  |   
+          |
+        data.
+=====
+
+can i use same name for SQL server and db  and table ?
+
+ABC and ABC and ABC ?
+
+
+===
+
+D:\sqlserver\db\table
+D:\abc\abc\abc.
+
+
+
